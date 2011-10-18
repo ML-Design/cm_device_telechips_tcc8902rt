@@ -1,0 +1,3 @@
+add_lunch_combo cyanogen_3wt71_8k-eng
+add_lunch_combo cyanogen_m701_512mb_8k-eng
+add_lunch_combo cyanogen_yarvik211_8k-eng
